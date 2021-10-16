@@ -1,2 +1,2 @@
-hidur
+Jetpack-Compose-Sample-App
 =====
